@@ -28,6 +28,5 @@ double loanDeduction = 0;
 }
  
 
-        input.close();
-    }
-}
+        
+
